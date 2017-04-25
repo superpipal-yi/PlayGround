@@ -5,7 +5,7 @@ Created on Thu Apr 20 22:55:26 2017
 @author: zhang_000
 """
 
-def maximalSquare(self, matrix):
+def maximalSquare(matrix):
         """
         :type matrix: List[List[str]]
         :rtype: int
